@@ -22,7 +22,7 @@ These parts arrive at different times and sources. This is where you come in. Yo
 
 ## Shelf Tickets
 ---
-### Pulling Parts
+### **Pulling Parts**
 Pulling "shelf tickets" as they are commonly refered to is a large portion of your job. The shelf tickets is a list of locations, part numbers, description of the part and quantity. 
 
 Shelf tickets will also have green label stickers stapled to them. These are provided by the counterman who bills out the parts. Should you need more you may return to them.  
@@ -82,9 +82,98 @@ With the average car having over 30,000 parts, there is no way we could store th
 
 The Body Shop Counterman will order parts for the job and they will come in over time as SOPs. These work very similart to shelf tickets other than they do not have a bin location. 
 
-They come in with the shelf parts. Service will then sort them out and place them in the designated Special Order Parts Area. 
+They come in with the shelf parts. Service will then sort them out and place them in the designated Special Order Parts Area. From here you will collect them and place them in their staging bin. 
 
-From here you will collect them and place them in their staging bin. 
+### **Take-To's**
+
+Take-To's are SOPs that have come in after the other parts have already been sent to the technician. Meaning the technician is actively working on and in need of those parts. These have priority of the other SOPs. They go straight to the technician instead of the bin unless otherwise stated.
+
+#### **Procedure**
+1. Collect the Take-To tickets from the blue file holder.
+2. Fimilarize your self with the RO number and Part Description.
+3. If unfamilar with the part description, google the part number and look at the image.
+4. Pick up a SOP fromt he SOP area and read the White Service Label. This will have the RO number, Part number and description. 
+5. If a match place in your cart with a green sticker and move on to the next part. 
+6. If not place the SOP into a different area, so that you do not get confused and look at it again.
+>*Efficiency Tip* - Using the white label group the parts that are not on your Take-To based on RO number. This will expadite the search when you get to SOP tickets.
+7. Once you have located all of the Take-To part and they have been labeled and marked down. Take them to the corresponding tech.
+
+### **Special Order Parts**
+
+#### **Procedure**
+1. Collect the SOP tickets from the blue file holder.
+2. If they are not already orginize your SOP tickets by the RO number, either ascedending or descending. Your Choice.
+3. Pick up an SOP part and read the White Service Parts label. 
+4. Match the RO number on the White Label with your SOP ticket that has that RO.
+5. Look through the list of Part Numbers on the SOP ticket and confirm that it matches.
+6. If the numbers match, mark that one found and place a green label on the part. If the numbers do not match place aside to not get confused with other parts.
+> **SPECIAL PROCEDURE** - All metal pieces, i.e. door, hood, fender, must be inspected by a body shop counterman before taken upstairs and to its bin location. They may need to have futher inspection by a technician. In that scenario the part will stay downstairs until the technician says so. 
+7. You can place your found part on the cart or elevator depending on side.
+>*Efficiency Tip* - Place your parts on the car or elevator together so it is easier to place in their bin when you get to the third floor. Also place the SOP ticket with the parts when completed so that you know that ticket is done.
+8. Repeat until you have no more SOP tickets left.
+>*Efficiency Tip* - With bumpers, doors, headlights or any large boxes. Take a piece of packaging tape and tape over the green label. This prevents the label falling off. An unlabeled part will never be found easily.
+9. Once all your parts are collected and on the elevator. Head to the third floor.
+10. At the third floor completly unload the elevator, so that other associates can use it as needed.
+11. Place the cart and Parts in the middle of the aisle. 
+12. At this time look to see if you have any Special Place Parts. 
+13. Move any Special Place Parts to their corresponding place and update their location in ROME.
+14. Next pick an order and look Rome to see if it has a bin location.
+15. If a bin location is set, place order in that bin location.
+16. If bin location is blank or too small. Gather all the parts and find a new bin location. Don't forget to write the bin location on your SOP ticket.
+17. Head back to the computer and update ROME. 
+18. Repeat steps 14 - 17 until all SOP are put away.
+
+#### **Troubleshooting**
+- What if I can't find a SOP or Take-To part
+  - Often the part is still there but so mixed up its hard to find. I generally work though the pile and it will show up. If the pile is already empty and you are still missing the part get with your body shop counterman and service. Sometimes service will stock the part by accident or the part will be inspected and not the normal spot. 
+
+
 ## Parts Order
+---
 
+This is your highest priority in addition to Take-To's. The technician is waiting on the parts to get started or complete a customers car. 
 
+#### **Procedure**
+1. Parts Orders begin with either a Text Message or Phone Call.
+   - It is polite to text the technician back so they know thier order has been recieved.
+2. Read the message and take in consideration of any notes
+   - An example here could be that a bodyman only needs the door and fender to mock it up, but not all of the parts.
+3. Head to ROME and go to the Parts Dispatch.
+4. Select all of the parts called for by the technician.
+   - Don't forget to read any notes for this RO. 
+5. Take the printed Parts Order and cart to the bin where the parts are held.
+6. Starting with any part match it's part number with the part number on the sheet. 
+7. Mark on the sheet that the part has been recieved and move on to the next part.
+8. If the part was not on your sheet, then place back in the bin location, but seperate to not get confused with unchecked parts.
+9. Repeat steps 6-8 until all parts on your Parts Order are marked and on your cart.
+>*Efficency Tip* - You are not expected to count out rivets, screws, nuts, etc. It is assumed that at the time of shelf ticket they were measure out correctly. However, be smart about it. It the Order calls for 6 different kinds of rivets and you have one kind. You are missing some parts and this warrants investigation.
+10. You may have go to your Special Place to retrevie the Special Place Parts. This should be marked on your sheet and in the notes. 
+11. Once all parts are on your cart. Head to the technician who ordered the parts.
+
+#### **Missing Parts**
+Missing parts are so common on Parts Orders. Here are the steps effective in finding a missing part. 
+
+1. Quickly go through the parts you have currently and make sure you did not get in a hurry and forgot to mark it down.
+2. Look in the bins to the left, right, above and below your current bin for the part. 
+3. Double Check the notes for any clues or previous bins. 
+4. Check previous bins.
+5. In Rome, Check the date the part was recieved. If today or yesterday, it may still be downstairs in SOP or on a Shelf ticket. At that point you can go pull it from the shelf and keep going. 
+6. Next check the invoice by restoring it and reading the comments. You are looking for Shelf or SOP and where it said to bring it. 
+7. It it is a shelf ticket and the part has a bin location, double check the on hand quanitiy. It is possilbe you forgot to pull it and they would be off by amount you were supposed to pull. 
+8. If a Special Place Part check all Special Place Part Locations not just the designated location. 
+9. If after 10 or more minutes you are still missing the part, contact a body shop counterman for an assist. They will likely go through the same process you just did. Don't feel bad if they find it in two minutes. Often your eyes can go numb by staring at the same boxes all day and you just needed fresh eys. 
+10. In some rare cases the part is actually lost and a new one will need to be ordered.
+
+#### **Troubleshooting**
+- What if the technician does not need what I brought him?
+  - Take the parts back up stairs and place them in thier bin. Don't forget to update ROME that the technician did not recieve those parts and undispatch them.
+- What if a part is broken?
+  - Retrieve Part from technician and bring to body shop counterman. Ask the technician to show you where it is broken so you can relay this information to the body shop counterman. Try to keep orginal packaging
+- What if I brought them the wrong part?
+  - Ask the technicican if you brought them the wrong part from the bin, did they order the wrong part of did the manufacturer send the wrong part. 
+    - If you brought them the wrong part. Retrieve the wrong part and bring out correct part. Notate everything in ROME
+    - If they ordered the wrong part or manufacturer sent the wrong part. Bring the wrong part to the body shop counterman with orginal packaging.
+- What if they ask for a part that is not on the ticket?
+  - You do not have the power to order parts. You may relay this information to the body shop counterman or ask the technician to talk to them directly if you do not feel comfortable you would get it right. 
+- What if I get multiple orders at once?
+  - This is super common. Best practice is to acknowledge their order so they know its in the queue. Next print all orders out that you have. Do the smallest order first so that technician can go ahead and get started. Next just go one order at a time. You can only do your best. Try not to let it frustrate you.
